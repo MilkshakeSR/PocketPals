@@ -3,6 +3,20 @@
     <channel>
         <title>PocketPals</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Mon, 09 Nov 2026 13:24:13 +1100</pubDate>
+            <link>https://github.com/MilkshakeSR/PocketPals</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><title>Pocket Pals 1.0.1</title>
+<style>body{font:13px -apple-system,sans-serif;margin:16px;color:#222}h2{margin:0 0 4px}h3{margin:14px 0 4px;color:#d9507a}
+li{margin:3px 0}@media (prefers-color-scheme:dark){body{color:#eee;background:#1e1e1e}}</style></head>
+<body><h2>Pocket Pals 1.0.1</h2><p>Pets stay on one Space</p><h3>Changed</h3><ul><li>Pets now live on one Space (desktop) and stay there when you switch to other Spaces. Choose **Move Pets to This Space** from the menu bar to bring them along, or turn on **Follow me to every Space** in Settings › Pets.</li><li>Pets pause while you&#x27;re on another Space, so they use no energy there.</li></ul></body></html>]]></description>
+            <enclosure url="https://github.com/MilkshakeSR/PocketPals/releases/download/v1.0.1/PocketPals.dmg" length="3469707" type="application/octet-stream" sparkle:edSignature="mwu9ONsIcdnVmJ64znx1GUwATK6k8xU5B6cMr/s+2cqoD0qtQwn9ltm2Ttj6aMCtORZRiN05GBu8kl4aSHEBAw=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Mon, 09 Nov 2026 13:12:48 +1100</pubDate>
             <link>https://github.com/MilkshakeSR/PocketPals</link>
