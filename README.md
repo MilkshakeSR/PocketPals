@@ -28,7 +28,7 @@ They walk along your Dock, nap on your windows, wake up when you come back and r
 - **Break reminders**: stretch, water, eye breaks (20-20-20), posture and a wrap-up time. Your pal walks over and stretches with you. Reminders wait for calls, screen sharing, fullscreen apps and Focus, with streaks and a weekly summary. Optional Pomodoro mode.
 - **Gentle care.** Feed favourite foods, play and pet to grow your friendship and unlock tricks. Pets never get sick, run away or make you feel guilty.
 - **Photo Booth**: save a cute portrait with frames and stickers to your Pictures folder.
-- **Light on your Mac**: about 2-3% CPU with three pets, slower when they sleep, and paused while your screen is locked. Hide them any time with Control-Option-P.
+- **Light on your Mac**: pets are drawn at 30 frames a second only while they move, more slowly while they idle or sleep, and not at all while your screen is locked or no pets are showing. Turn off **Smoother animation** in Settings to save a little more energy. Hide them any time with Control-Option-P.
 - Lives in the menu bar. Light and dark mode, VoiceOver labels, keyboard shortcuts, and Reduce Motion is respected.
 
 ## Requirements
