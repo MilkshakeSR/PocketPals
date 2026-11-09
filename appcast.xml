@@ -3,6 +3,20 @@
     <channel>
         <title>PocketPals</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Mon, 09 Nov 2026 15:01:45 +1100</pubDate>
+            <link>https://github.com/MilkshakeSR/PocketPals</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><title>Pocket Pals 1.0.2</title>
+<style>body{font:13px -apple-system,sans-serif;margin:16px;color:#222}h2{margin:0 0 4px}h3{margin:14px 0 4px;color:#d9507a}
+li{margin:3px 0}@media (prefers-color-scheme:dark){body{color:#eee;background:#1e1e1e}}</style></head>
+<body><h2>Pocket Pals 1.0.2</h2><p>Dance to music and follow the Dock</p><h3>Added</h3><ul><li>Hover over the Dock icons and your pets come over and follow the pointer along the top of the Dock, side by side. Pets up on a window or the menu bar hop or fly down to join in.</li></ul><h3>Changed</h3><ul><li>Pets never go below the top of the Dock any more. The floor beside the Dock is level with it, and you can&#x27;t drag a pet underneath it either.</li><li>Pets dance the whole time Music or Spotify is playing, and stop when it pauses. This is now on by default. Pocket Pals listens for the play and pause announcements those apps make, so it reacts straight away and doesn&#x27;t need any permission.</li></ul></body></html>]]></description>
+            <enclosure url="https://github.com/MilkshakeSR/PocketPals/releases/download/v1.0.2/PocketPals.dmg" length="3479438" type="application/octet-stream" sparkle:edSignature="xMvXddC2Z8NCiJpDhq9Gfn3g+8M6r1NRQePVgQG7j2YqGG6O2axB016CBZwtx79/7eqvzeOqc76ec+NVYak/Bw=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Mon, 09 Nov 2026 13:24:13 +1100</pubDate>
             <link>https://github.com/MilkshakeSR/PocketPals</link>
