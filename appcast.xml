@@ -3,6 +3,20 @@
     <channel>
         <title>PocketPals</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Tue, 10 Nov 2026 23:21:23 +1100</pubDate>
+            <link>https://github.com/MilkshakeSR/PocketPals</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><title>Pocket Pals 1.0.3</title>
+<style>body{font:13px -apple-system,sans-serif;margin:16px;color:#222}h2{margin:0 0 4px}h3{margin:14px 0 4px;color:#d9507a}
+li{margin:3px 0}@media (prefers-color-scheme:dark){body{color:#eee;background:#1e1e1e}}</style></head>
+<body><h2>Pocket Pals 1.0.3</h2><p>Pets stay on their desktop</p><h3>Fixed</h3><ul><li>Pets really do stay on their desktop now. They could turn up on another Space or over a fullscreen app after your Mac woke from sleep, a display changed, or you hid and showed them. Pocket Pals now waits until you&#x27;re back on the pets&#x27; desktop before redrawing anything, and hiding pets fades them out in place instead of moving their window.</li></ul></body></html>]]></description>
+            <enclosure url="https://github.com/MilkshakeSR/PocketPals/releases/download/v1.0.3/PocketPals.dmg" length="3481689" type="application/octet-stream" sparkle:edSignature="BqGUBaudWSmphJ1sN91ZVBpoRDNcjbqj3fgYrKuX545T97HCj5NfiMq7DhZqaew3s5Yolmfy1Jw3MvK3GgMPCw=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Mon, 09 Nov 2026 15:01:45 +1100</pubDate>
             <link>https://github.com/MilkshakeSR/PocketPals</link>
@@ -29,20 +43,6 @@ li{margin:3px 0}@media (prefers-color-scheme:dark){body{color:#eee;background:#1
 li{margin:3px 0}@media (prefers-color-scheme:dark){body{color:#eee;background:#1e1e1e}}</style></head>
 <body><h2>Pocket Pals 1.0.1</h2><p>Pets stay on one Space</p><h3>Changed</h3><ul><li>Pets now live on one Space (desktop) and stay there when you switch to other Spaces. Choose **Move Pets to This Space** from the menu bar to bring them along, or turn on **Follow me to every Space** in Settings › Pets.</li><li>Pets pause while you&#x27;re on another Space, so they use no energy there.</li></ul></body></html>]]></description>
             <enclosure url="https://github.com/MilkshakeSR/PocketPals/releases/download/v1.0.1/PocketPals.dmg" length="3469707" type="application/octet-stream" sparkle:edSignature="mwu9ONsIcdnVmJ64znx1GUwATK6k8xU5B6cMr/s+2cqoD0qtQwn9ltm2Ttj6aMCtORZRiN05GBu8kl4aSHEBAw=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Mon, 09 Nov 2026 13:12:48 +1100</pubDate>
-            <link>https://github.com/MilkshakeSR/PocketPals</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><title>Pocket Pals 1.0.0</title>
-<style>body{font:13px -apple-system,sans-serif;margin:16px;color:#222}h2{margin:0 0 4px}h3{margin:14px 0 4px;color:#d9507a}
-li{margin:3px 0}@media (prefers-color-scheme:dark){body{color:#eee;background:#1e1e1e}}</style></head>
-<body><h2>Pocket Pals 1.0.0</h2><p>First release</p><h3>Added</h3><ul><li>Twelve original, hand-coded animals: Dog (6 variants), Cat (6), Bunny (4), Bird (6, including an owl that&#x27;s livelier at night), Hamster (3), Fox (2), Red Panda, Penguin, Frog, Axolotl, Hedgehog and a Baby Dragon that hatches after 7 days together.</li><li>Pets live on your screen: they walk along the top of the Dock (or the screen bottom when the Dock hides), climb onto windows, ride along when you move them, tumble off when you drag too fast and peek out when another window covers them. Birds perch on a swing under the menu bar.</li><li>Seven expressions, a skeletal animation system and species tricks: fetch, zoomies, kneading, yarn-pushing, binkies, singing, hamster wheel, fox pounce, red panda climbing, penguin belly slides, frog fly-catching, axolotl bubbles, hedgehog curls and dragon smoke puffs.</li><li>Petting (wiggle the pointer slowly), clicking, double-click tricks, pick up and throw, cursor chasing. Pets play, nuzzle, scuffle and nap together.</li><li>Naps with &quot;z z z&quot; when you&#x27;re away for 3 minutes, and a happy greeting when you&#x27;re back. Nightcaps after 10pm, seasonal outfits, music dancing, a low-battery bubble and birthday confetti.</li><li>Gentle care: happiness, hunger and energy, favourite foods and a friendship level that unlocks tricks and accessories. Pets never get sick or run away.</li><li>Break reminders (stretch, water, eye 20-20-20, posture, wrap-up time) presented by your pet, with Done, Snooze and Skip. They wait for calls, screen sharing, fullscreen apps and Focus, and restart after you&#x27;ve been away. Streaks, a weekly summary and an optional Pomodoro mode.</li><li>Adoption Centre with live previews, colour tweaks, accessories, names, personalities and sizes. A parachute arrival.</li><li>My Pals with stats, renaming, outfits, naps, a Photo Booth that saves to Pictures, and goodbyes with undo.</li><li>Menu bar menu with quick actions, global shortcuts (Control-Option-P to hide or show pets), Settings, onboarding and automatic updates.</li></ul></body></html>]]></description>
-            <enclosure url="https://github.com/MilkshakeSR/PocketPals/releases/download/v1.0.0/PocketPals.dmg" length="3466256" type="application/octet-stream" sparkle:edSignature="eunrNBnpVnNsZ9ZPDZk6j/7J+x3Wz2rN40rELJ8WMAKP//Dk9BRdAdry4lHA3jSOaksWw3Psup5XoI3KWhmyCQ=="/>
         </item>
     </channel>
 </rss>
