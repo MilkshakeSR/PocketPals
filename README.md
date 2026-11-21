@@ -1,9 +1,9 @@
-<p align="center"><img src="screenshots/3-beds-and-toys.png" alt="A cat napping in a basket, a quokka eating from a bowl, a corgi with a ball and an otter floating in a pool on top of the Dock, a koala hugging the side of a window and a bee visiting a flower" width="900"></p>
+<p align="center"><img src="screenshots/winter-1-dock-perches.png" alt="Snow falling on a desktop: snowy Dock icons and three minimised windows with a cat and a quokka in a beanie perched on them, and a bunny hopping along the snowy Dock" width="900"></p>
 
 # Pocket Pals
 
 **Cute little animals that live on your screen.**
-Almost fifty original pals walk along your Dock, climb your windows, play with toys and games, grow up with you, and remind you to take breaks. Every one is drawn in code, just for you.
+Almost fifty original pals walk along your Dock, perch on your minimised windows, climb your windows, play with toys and games, play in the snow, grow up with you, and remind you to take breaks. Every one is drawn in code, just for you.
 
 <p align="center">
   <a href="https://github.com/MilkshakeSR/PocketPals/releases/latest/download/PocketPals.dmg">
@@ -12,23 +12,22 @@ Almost fifty original pals walk along your Dock, climb your windows, play with t
 </p>
 
 ## Screenshots
-| Pet Home | Aussie Mates |
-| --- | --- |
-| ![Pet Home showing cards for a quokka, a koala, a cat and an otter, each with mood, needs bars and Feed, Play, Call over, Customise and More buttons](screenshots/1-pet-home.png) | ![The Adopt tab showing the Aussie Mates: quokka, wombat, koala, kangaroo, platypus, echidna, sugar glider, kookaburra, cockatoo and blue-tongue lizard](screenshots/2-adopt-aussie-mates.png) |
-
-| Mini-games | Guided breaks |
-| --- | --- |
-| ![Bubble Pop: bubbles floating up the screen while a cat and a squirrel chase them, with the score and time at the top](screenshots/4-mini-game.png) | ![A guided stretch break with a countdown, and a quokka standing tall with headphones on](screenshots/5-guided-stretch-break.png) |
+| Drive the snow plough | Deck the desktop | Snow days |
+| --- | --- | --- |
+| ![A corgi in a scarf riding an orange snow plough that pushes a snowbank along the snowy Dock, with the plough controls at the top of the screen](screenshots/winter-2-snow-plough.png) | ![A decorated Christmas tree with twinkling lights and a star, presents, a cosy fireplace with a sleeping koala in a Santa hat, a corgi in reindeer antlers and fairy lights under the menu bar](screenshots/winter-3-christmas-tree.png) | ![Two snowmen, one big in a top hat and one tiny in a beanie, with a penguin, a fox in a scarf and a bunny in earmuffs making a snow angel](screenshots/winter-4-snowman.png) |
 
 ## Features
+- **New in 1.2: Winter Wonderland.** Snow that falls behind your windows and settles on the Dock, your Dock icons and your things, a **snow plough you can drive** to push snow into piles and build snowmen and forts, a Christmas tree with twinkling lights, fairy lights, presents your pals open, an advent calendar, snowball fights, and pals in scarves and earmuffs making snow angels. Turn it on with ❄️ in the menu bar, or let it snow automatically in your winter (June to August in the Southern Hemisphere, December to February in the Northern).
+- **Perch on the Dock.** Pals sit on Dock icons and minimised windows. Drag one over a Dock item and let go to perch it there.
+- **Pals stay on your desktop.** They never appear inside fullscreen apps. Choose all desktops or just one.
 - **49 original animals in five collections.** Classic pals (dogs, cats, bunnies, birds and more), **Aussie Mates** (quokka, wombat, koala, kangaroo and joey, platypus, echidna, sugar glider, kookaburra, cockatoo, blue-tongue lizard), **Cute & Cosy** (otter, sloth, capybara, red panda, raccoon, squirrel, guinea pig, chinchilla, ferret, mouse, lamb, piglet, pony, fawn, seal pup, polar bear cub, panda) and **Tiny Friends** (snail, bee, butterfly, ladybug, octopus, jellyfish, gecko). Each has its own colours, sound and special moves.
 - **Special pals to unlock**: a Unicorn, a Phoenix, a Little Robot, a Ghost Cat who visits every October, and a Baby Dragon who learns to breathe sparkles.
 - **Pet Home**: one friendly window for your pals, adopting (with a "find your perfect pal" quiz), the wardrobe, toys, games, reminders and settings. Hold Control-Option-P to open it.
 - **They live on your screen.** Pals walk along your Dock, hop onto windows, ride along when you move a window, peek out from behind windows and perch under the menu bar. Hover over the Dock icons and they follow the pointer.
 - **Toys and a cosy home.** Beds, bowls, balls, yarn, wheels, perches, flowers, a paddling pool, plants and a lamp that glows at night. Pals use them by themselves. Unlock them with treats you earn by taking breaks and playing (treats can never be bought).
-- **Six mini-games**: Fetch, Hide & Seek, Treat Catch, Copy Me, Bubble Pop and Pet Race.
+- **Seven mini-games**: Fetch, Hide & Seek, Treat Catch, Copy Me, Bubble Pop, Pet Race and Snowball Fight.
 - **They grow up with you.** New pals start as babies and grow up over ten days, learn tricks with practice, make friends with each other, and fill a daily diary with cute moments you can share.
-- **Right-click a pal** for a round menu: Feed, Play, Pet, Trick, Sleep, Wardrobe, Hide and Pet Home.
+- **Right-click a pal** for a round menu: Feed, Play, Pet, Trick, Sleep, Wardrobe, Hide and Pet Home. It always opens above the Dock, and works with the arrow keys.
 - **Never in the way.** Clicks go straight through. Pals move aside if they're in your way, never sit on window buttons, hide during screen sharing, presentations, video calls and fullscreen apps, and **Shy mode** sends them to the corner.
 - **Better breaks.** Friendly reminders to stretch, rest your eyes, drink water and wrap up. Your pal leads short guided stretches, a 20-20-20 eye break or a breathing exercise, and **Study with me** keeps you company through a focus session.
 - **Little extras (all optional):** weather outfits, good-luck wishes before exams, dancing to Music or Spotify, celebrations on your birthday and special days for your region.
@@ -50,6 +49,7 @@ Pocket Pals checks for updates once a day and tells you when a new version is re
 
 ## Privacy
 - Pocket Pals looks at **window positions and sizes** only so pals can stand on them. It never reads window contents, takes no screenshots and needs no Screen Recording permission.
+- **Dock perches** (optional) use Accessibility permission only to read where Dock items are, so pals can sit on them. Nothing else is read, and nothing leaves your Mac. Everything else works without it.
 - It checks how long since you last typed, whether a camera or microphone is in use, screen sharing and your battery, so pals and reminders can be considerate. Nothing is recorded.
 - Optional features ask first and are off until you turn them on: **weather outfits** send your approximate location or a city you choose to [Open-Meteo](https://open-meteo.com/) (weather data by Open-Meteo.com); **calendar awareness** reads your events on your Mac only; **download celebrations** look only at new file names in Downloads.
 - Your pals stay on your Mac. Apart from the optional weather, the only thing that goes online is the daily update check to GitHub. No analytics, no tracking, no accounts.
